@@ -92,8 +92,8 @@ require (
 	github.com/unknwon/com v1.0.1
 	github.com/unknwon/i18n v0.0.0-20190805065654-5c6446a380b6 // indirect
 	github.com/unknwon/paginater v0.0.0-20151104151617-7748a72e0141 // indirect
-	github.com/xanzy/ssh-agent v0.3.1
-	golang.org/x/crypto v0.0.0-20220507011949-2cf3adece122
+	github.com/xanzy/ssh-agent v0.3.3
+	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d
 	golang.org/x/image v0.0.0-20190802002840-cff245a6509b // indirect
 	golang.org/x/net v0.0.0-20220927171203-f486391704dc
 	golang.org/x/sys v0.0.0-20220728004956-3c1f35247d10
