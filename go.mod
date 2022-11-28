@@ -50,7 +50,7 @@ require (
 	github.com/gogs/cron v0.0.0-20171120032916-9f6c956d3e14 // indirect
 	github.com/google/go-github/v24 v24.0.1 // indirect
 	github.com/google/renameio v0.1.0 // indirect
-	github.com/gophish/gophish v0.1.2
+	github.com/gophish/gophish v0.12.1
 	github.com/issue9/assert v1.3.2 // indirect
 	github.com/issue9/identicon v0.0.0-20160320065130-d36b54562f4c // indirect
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99
