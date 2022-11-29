@@ -13,7 +13,7 @@ require (
 	github.com/bgentry/speakeasy v0.1.0 // indirect
 	github.com/blevesearch/bleve v0.0.0-20190214220507-05d86ea8f6e3 // indirect
 	github.com/blevesearch/blevex v0.0.0-20180227211930-4b158bb555a3 // indirect
-	github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b
+	github.com/bradfitz/gomemcache v0.0.0-20221031212613-62deef7fc822
 	github.com/chaseadamsio/goorgeous v0.0.0-20170901132237-098da33fde5f // indirect
 	github.com/corbym/gocrest v1.0.3 // indirect
 	github.com/coreos/bbolt v1.3.3 // indirect
