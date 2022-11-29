@@ -1,6 +1,6 @@
 module github.com/sonatype-nexus-community/intentionally-vulnerable-golang-project
 
-go 1.13
+go 1.19
 
 require (
 	code.gitea.io/gitea v1.17.3
