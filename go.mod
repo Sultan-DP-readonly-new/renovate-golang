@@ -40,7 +40,7 @@ require (
 	github.com/facebookgo/stack v0.0.0-20160209184415-751773369052 // indirect
 	github.com/facebookgo/stats v0.0.0-20151006221625-1b76add642e4 // indirect
 	github.com/facebookgo/subset v0.0.0-20150612182917-8dac2c3c4870 // indirect
-	github.com/go-gitea/gitea v1.2.3
+	github.com/go-gitea/gitea v1.17.3
 	github.com/go-openapi/inflect v0.19.0 // indirect
 	github.com/go-redis/redis v6.15.9+incompatible
 	github.com/go-swagger/scan-repo-boundary v0.0.0-20180623220736-973b3573c013 // indirect
